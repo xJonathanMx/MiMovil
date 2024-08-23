@@ -1,0 +1,7 @@
+{
+  "name": "MiMovil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
